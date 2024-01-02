@@ -17,32 +17,6 @@ The classification model distinguishing four subtypes including FA, NIFTP, FC an
 applying this new diagnostic method in the future. Aberrant DNA methylation in EFPTTs groups also revealed the relevance between it and four pathways related tumor development and the immune system, which created a new approach to research and
 treatment for thyroid tumor patients.
 
-#### Member of Team
-
-1. Nguyen Minh Hoang[1]
-2. Le Van Hieu [2]
-3. Le Nhat Thong, BSc [3]
-4. Nguyen Vu Phong, PhD [4]
-5. Luu Phuc Loi, PhD [5]
-6. Nguyen Phan Xuan Truong, MD, Msc [6]
-7. Luong Thi My Hanh, MD, PhD [7]
-
-####
-
-_[1] Student of Biological Sciences faculty, Nong Lam university._
-
-_[2] Student of Computer Science faculty, Hue University of Sciences_
-
-_[3] Research Center for Infectious Disease, International University - Vietnam National University at HCM city_
-
-_[4] Faculty of Biological Sciences, Nong Lam University_
-
-_[5] Epigenetics Research Laboratory, Genomics and Epigenetics Division, Garvan Institute of Medical Research, Sydney 2010, New South Wales, Australia._
-
-_[6] Department of Pathology, Medical Science Program, Faculty of Medicine, Chulalongkorn University, Thai Lan._
-
-_[7] Physician in anatomical pathology, department of Medicine Solna, Karolinska Institute, Sweden._
-
 #### Workflow
 
-![Workflow](<(images/workflow.png)> "Workflow")
+![Workflow](https://github.com/nguyenminhhoang210620/EFPTT_THYROID_PROJECT/blob/main/images/workflow.png)
