@@ -1,0 +1,246 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+MF	molecular_function	17849	365	2.07069798665304e-22	4.72450452634759e-18
+MF	binding	16139	329	1.86623698579468e-14	7.09667717798189e-11
+MF	protein binding	13732	286	2.85129803945299e-11	8.13190200851994e-08
+MF	molecular function regulator activity	1926	66	5.58922110532429e-09	7.97022929619244e-06
+MF	enzyme regulator activity	1220	42	3.99867940750833e-06	0.00198334498612413
+MF	peptidase regulator activity	226	13	9.05167365321678e-05	0.0264773059066403
+MF	endopeptidase inhibitor activity	176	11	0.000151199446298565	0.0387614220982928
+MF	enzyme inhibitor activity	385	17	0.000209194480327014	0.0487038904402158
+MF	peptidase inhibitor activity	183	11	0.000212605790102229	0.048998118252247
+MF	calcium ion binding	702	25	0.000230323770327584	0.0510200693572249
+MF	serine-type peptidase activity	185	11	0.00023360902588656	0.0512502262944976
+MF	serine hydrolase activity	189	11	0.000280911182448941	0.0567191994580091
+MF	endopeptidase regulator activity	190	11	0.000293923076434876	0.0573175120678474
+MF	aryl sulfotransferase activity	9	3	0.000332170807238382	0.0612134168527303
+MF	serine-type endopeptidase activity	168	10	0.000441428459324717	0.0757265543455094
+MF	catalytic activity	5397	116	0.000482627951143999	0.0821764129350857
+MF	signaling receptor binding	1468	41	0.000523811675924999	0.0847609021127998
+MF	antiporter activity	87	7	0.000541714790197658	0.0864319206513969
+MF	complement receptor activity	11	3	0.000636875794598672	0.0968730541970886
+MF	snRNA binding	48	5	0.0010632680316188	0.124800329748391
+MF	transporter activity	1208	34	0.00138250773199301	0.150548689445978
+MF	opsonin receptor activity	4	2	0.00154518587420655	0.158093995093707
+MF	purine-rich negative regulatory element binding	4	2	0.00154518587420655	0.158093995093707
+MF	cysteine-type endopeptidase activity involved in apoptotic process	15	3	0.00167344147308032	0.167630295479372
+MF	secondary active transmembrane transporter activity	238	11	0.00187103160551726	0.180124291609628
+MF	tropomyosin binding	16	3	0.00203495568792733	0.190389251727503
+MF	lipopolysaccharide binding	34	4	0.00216271005198603	0.192751533383255
+MF	endopeptidase activity	410	15	0.00310797623332056	0.250852491276815
+MF	inorganic anion transmembrane transporter activity	151	8	0.00334617551937051	0.267881897017395
+MF	transmembrane transporter activity	1093	30	0.00375646128042429	0.286560262449011
+MF	kinase regulator activity	231	10	0.00470467263741179	0.344796645938318
+MF	active transmembrane transporter activity	389	14	0.00485510055297246	0.35278335737777
+MF	bicarbonate transmembrane transporter activity	22	3	0.00520697396387481	0.362483804450809
+MF	solute:proton antiporter activity	22	3	0.00520697396387481	0.362483804450809
+MF	sialic acid binding	22	3	0.00520697396387481	0.362483804450809
+MF	anion transmembrane transporter activity	314	12	0.00556022660378443	0.377461765508077
+MF	hydrolase activity	2296	53	0.00579248543831553	0.387569934781839
+MF	heparin binding	168	8	0.00632843783629566	0.413723890180292
+MF	anion:anion antiporter activity	24	3	0.00668153216589648	0.416874186588208
+MF	arginine binding	8	2	0.00690648854007463	0.416874186588208
+MF	solute:anion antiporter activity	24	3	0.00668153216589648	0.416874186588208
+MF	inorganic molecular entity transmembrane transporter activity	716	21	0.00706200460249677	0.42313310839523
+MF	carboxylic acid binding	172	8	0.0072571663675382	0.428962455548579
+MF	enzyme activator activity	538	17	0.00733900709953438	0.431563881399424
+MF	carbohydrate derivative binding	2224	51	0.0076640866493306	0.442693167066144
+MF	peptidase activity	586	18	0.00779426439891364	0.446818935994004
+MF	immune receptor activity	140	7	0.00804296645245381	0.453106969331324
+MF	channel regulator activity	141	7	0.00834858579150523	0.463458232162977
+MF	structural constituent of myelin sheath	9	2	0.00878486503517072	0.474965593939467
+MF	7SK snRNA binding	9	2	0.00878486503517072	0.474965593939467
+MF	complement component C4b receptor activity	1	1	0.0162427340561485	0.517672155853932
+MF	dystroglycan binding	11	2	0.0131365432415751	0.517672155853932
+MF	aromatic-L-amino-acid decarboxylase activity	1	1	0.0162427340561485	0.517672155853932
+MF	metallocarboxypeptidase activity	29	3	0.0113635407095158	0.517672155853932
+MF	glucan 1,4-alpha-glucosidase activity	1	1	0.0162427340561485	0.517672155853932
+MF	gluconolactonase activity	1	1	0.0162427340561485	0.517672155853932
+MF	iodide peroxidase activity	1	1	0.0162427340561485	0.517672155853932
+MF	xylulokinase activity	1	1	0.0162427340561485	0.517672155853932
+MF	complement component C3b receptor activity	1	1	0.0162427340561485	0.517672155853932
+MF	epidermal growth factor receptor binding	32	3	0.0148842898903114	0.517672155853932
+MF	extracellularly glutamate-gated ion channel activity	1	1	0.0162427340561485	0.517672155853932
+MF	intracellularly ATP-gated chloride channel activity	1	1	0.0162427340561485	0.517672155853932
+MF	glycosaminoglycan binding	233	9	0.0143450187431519	0.517672155853932
+MF	monocarboxylic acid transmembrane transporter activity	59	4	0.0154698545950028	0.517672155853932
+MF	sarcosine oxidase activity	1	1	0.0162427340561485	0.517672155853932
+MF	JAK pathway signal transduction adaptor activity	1	1	0.0162427340561485	0.517672155853932
+MF	tetracycline transmembrane transporter activity	1	1	0.0162427340561485	0.517672155853932
+MF	lithium:proton antiporter activity	1	1	0.0162427340561485	0.517672155853932
+MF	potassium ion transmembrane transporter activity	153	7	0.0127136878627924	0.517672155853932
+MF	sodium ion transmembrane transporter activity	150	7	0.0114957689815208	0.517672155853932
+MF	arsenite transmembrane transporter activity	1	1	0.0162427340561485	0.517672155853932
+MF	oxoglutarate:malate antiporter activity	1	1	0.0162427340561485	0.517672155853932
+MF	lipoate synthase activity	1	1	0.0162427340561485	0.517672155853932
+MF	myosin I binding	1	1	0.0162427340561485	0.517672155853932
+MF	chloride channel inhibitor activity	10	2	0.010863876433034	0.517672155853932
+MF	tRNA (m5U54) methyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	S-adenosylmethionine-dependent tRNA (m5U54) methyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	somatostatin receptor binding	1	1	0.0162427340561485	0.517672155853932
+MF	inhibitory MHC class I receptor activity	11	2	0.0131365432415751	0.517672155853932
+MF	receptor serine/threonine kinase binding	29	3	0.0113635407095158	0.517672155853932
+MF	5-hydroxy-L-tryptophan decarboxylase activity	1	1	0.0162427340561485	0.517672155853932
+MF	L-dopa decarboxylase activity	1	1	0.0162427340561485	0.517672155853932
+MF	G protein-coupled enkephalin receptor activity	1	1	0.0162427340561485	0.517672155853932
+MF	active borate transmembrane transporter activity	1	1	0.0162427340561485	0.517672155853932
+MF	oxidoreductase activity, acting on X-H and Y-H to form an X-Y bond	1	1	0.0162427340561485	0.517672155853932
+MF	betaine-homocysteine S-methyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	globoside alpha-N-acetylgalactosaminyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	glycine N-benzoyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	L-pipecolate oxidase activity	1	1	0.0162427340561485	0.517672155853932
+MF	N-acylglucosamine 2-epimerase activity	1	1	0.0162427340561485	0.517672155853932
+MF	RAGE receptor binding	10	2	0.010863876433034	0.517672155853932
+MF	tocopherol omega-hydroxylase activity	1	1	0.0162427340561485	0.517672155853932
+MF	alpha-tocopherol omega-hydroxylase activity	1	1	0.0162427340561485	0.517672155853932
+MF	tocotrienol omega-hydroxylase activity	1	1	0.0162427340561485	0.517672155853932
+MF	neutral sphingomyelin phosphodiesterase activity	1	1	0.0162427340561485	0.517672155853932
+MF	3'-flap-structured DNA binding	1	1	0.0162427340561485	0.517672155853932
+MF	stearic acid binding	1	1	0.0162427340561485	0.517672155853932
+MF	voltage-gated potassium channel activity involved in SA node cell action potential depolarization	1	1	0.0162427340561485	0.517672155853932
+MF	intracellularly ATP-gated ion channel activity	1	1	0.0162427340561485	0.517672155853932
+MF	protein-fructosamine 3-kinase activity	1	1	0.0162427340561485	0.517672155853932
+MF	lipoyl synthase activity (acting on glycine-cleavage complex H protein	1	1	0.0162427340561485	0.517672155853932
+MF	lipoyl synthase activity (acting on pyruvate dehydrogenase E2 protein)	1	1	0.0162427340561485	0.517672155853932
+MF	Sec61 translocon complex binding	1	1	0.0162427340561485	0.517672155853932
+MF	acetylgalactosaminyl-O-glycosyl-seryl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	acetylgalactosaminyl-O-glycosyl-threonyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	U2 snRNA 2'-O-methyladenosine m6 methyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	2-hydroxyacyl-CoA lyase activity	1	1	0.0162427340561485	0.517672155853932
+MF	2-hydroxy-3-methylhexadecanoyl-CoA lyase activity	1	1	0.0162427340561485	0.517672155853932
+MF	2-hydroxyphytanoyl-CoA lyase activity	1	1	0.0162427340561485	0.517672155853932
+MF	catalytic activity, acting on a protein	2204	49	0.0152286313453805	0.517672155853932
+MF	iodotyrosine deiodinase activity	1	1	0.0162427340561485	0.517672155853932
+MF	sulfur compound binding	265	10	0.0118083592561143	0.517672155853932
+MF	RNA 5'-methyltransferase activity	1	1	0.0162427340561485	0.517672155853932
+MF	calmodulin binding	200	8	0.0168847767135343	0.534479055510027
+MF	identical protein binding	1955	44	0.0174246388247564	0.546099669540717
+MF	solute:cation antiporter activity	34	3	0.0175359015538018	0.547355223034077
+MF	carboxylic acid transmembrane transporter activity	164	7	0.0179765496614086	0.555010767354125
+MF	monovalent cation:proton antiporter activity	13	2	0.01823578537058	0.55749516199645
+MF	sodium:proton antiporter activity	13	2	0.01823578537058	0.55749516199645
+MF	organic acid transmembrane transporter activity	165	7	0.0185207438099118	0.563425721022597
+MF	ion transmembrane transporter activity	835	22	0.0185949433514143	0.564178494023761
+MF	protein kinase regulator activity	204	8	0.0187799598691592	0.567527899834088
+MF	GTPase activity	328	11	0.0189848176361228	0.570695124091935
+MF	active ion transmembrane transporter activity	247	9	0.0201534427302493	0.596395524427195
+MF	serine-type endopeptidase inhibitor activity	96	5	0.0202355582530459	0.596406625540847
+MF	chloride transmembrane transporter activity	99	5	0.0227759441793929	0.641531440163271
+MF	metal ion transmembrane transporter activity	427	13	0.0232178859208283	0.649986852968858
+MF	water transmembrane transporter activity	15	2	0.0240301445249198	0.653482452301036
+MF	FMN binding	15	2	0.0240301445249198	0.653482452301036
+MF	MHC class I receptor activity	15	2	0.0240301445249198	0.653482452301036
+MF	long-chain fatty acid binding	15	2	0.0240301445249198	0.653482452301036
+MF	1-phosphatidylinositol-3-kinase regulator activity	15	2	0.0240301445249198	0.653482452301036
+MF	metal ion:proton antiporter activity	15	2	0.0240301445249198	0.653482452301036
+MF	ion channel regulator activity	136	6	0.0238811100639826	0.653482452301036
+MF	complement component C4b binding	2	1	0.032222300463713	0.678840265355564
+MF	beta-galactoside alpha-2,6-sialyltransferase activity	2	1	0.032222300463713	0.678840265355564
+MF	methionine adenosyltransferase activity	2	1	0.032222300463713	0.678840265355564
+MF	ribonuclease III activity	2	1	0.032222300463713	0.678840265355564
+MF	protein tyrosine phosphatase activity	103	5	0.026471795049603	0.678840265355564
+MF	complement component C5a receptor activity	2	1	0.032222300463713	0.678840265355564
+MF	interferon-gamma receptor activity	2	1	0.032222300463713	0.678840265355564
+MF	epidermal growth factor-activated receptor activity	2	1	0.032222300463713	0.678840265355564
+MF	GTPase activator activity	268	9	0.0317979244200053	0.678840265355564
+MF	metalloendopeptidase inhibitor activity	16	2	0.0271723143587758	0.678840265355564
+MF	arachidonic acid epoxygenase activity	17	2	0.0304697628520506	0.678840265355564
+MF	organic anion transmembrane transporter activity	185	7	0.031952264598914	0.678840265355564
+MF	site-specific DNA-methyltransferase (adenine-specific) activity	2	1	0.032222300463713	0.678840265355564
+MF	sulfate transmembrane transporter activity	17	2	0.0304697628520506	0.678840265355564
+MF	urea channel activity	2	1	0.032222300463713	0.678840265355564
+MF	channel activity	484	14	0.02776279989364	0.678840265355564
+MF	cyclosporin A binding	17	2	0.0304697628520506	0.678840265355564
+MF	linoleoyl-CoA desaturase activity	2	1	0.032222300463713	0.678840265355564
+MF	transferase activity, transferring sulphur-containing groups	69	4	0.0259277371667217	0.678840265355564
+MF	chloride channel regulator activity	17	2	0.0304697628520506	0.678840265355564
+MF	kinase activator activity	108	5	0.0316019633720377	0.678840265355564
+MF	passive transmembrane transporter activity	485	14	0.0281833518434056	0.678840265355564
+MF	protein kinase activator activity	102	5	0.0255142542947205	0.678840265355564
+MF	lactose binding	2	1	0.032222300463713	0.678840265355564
+MF	signaling receptor regulator activity	534	15	0.0291337234341678	0.678840265355564
+MF	signaling receptor activator activity	492	14	0.0312596419948632	0.678840265355564
+MF	U12 snRNA binding	2	1	0.032222300463713	0.678840265355564
+MF	GTPase regulator activity	482	14	0.0269356117784937	0.678840265355564
+MF	Pyrin domain binding	2	1	0.032222300463713	0.678840265355564
+MF	double-stranded RNA-specific ribonuclease activity	2	1	0.032222300463713	0.678840265355564
+MF	iron chaperone activity	2	1	0.032222300463713	0.678840265355564
+MF	Fc-gamma receptor I complex binding	2	1	0.032222300463713	0.678840265355564
+MF	signaling receptor activity	1446	33	0.0311848050568018	0.678840265355564
+MF	cation binding	4260	84	0.0302952856884447	0.678840265355564
+MF	organic acid binding	140	6	0.0270394138748843	0.678840265355564
+MF	interleukin-23 receptor binding	2	1	0.032222300463713	0.678840265355564
+MF	transition metal ion binding	1077	26	0.0294573751253332	0.678840265355564
+MF	biotinidase activity	2	1	0.032222300463713	0.678840265355564
+MF	beta-tubulin binding	41	3	0.0287575875082783	0.678840265355564
+MF	arachidonic acid omega-hydroxylase activity	2	1	0.032222300463713	0.678840265355564
+MF	molecular transducer activity	1446	33	0.0311848050568018	0.678840265355564
+MF	nucleoside-triphosphatase regulator activity	482	14	0.0269356117784937	0.678840265355564
+MF	forked DNA-dependent helicase activity	2	1	0.032222300463713	0.678840265355564
+MF	telomeric G-quadruplex DNA binding	2	1	0.032222300463713	0.678840265355564
+MF	growth factor receptor binding	139	6	0.026225280413923	0.678840265355564
+MF	20-hydroxy-leukotriene B4 omega oxidase activity	2	1	0.032222300463713	0.678840265355564
+MF	20-aldehyde-leukotriene B4 20-monooxygenase activity	2	1	0.032222300463713	0.678840265355564
+MF	protein-ribulosamine 3-kinase activity	2	1	0.032222300463713	0.678840265355564
+MF	docosanoate omega-hydroxylase activity	2	1	0.032222300463713	0.678840265355564
+MF	snRNA methyltransferase activity	2	1	0.032222300463713	0.678840265355564
+MF	peptide-glutamate-N-acetyltransferase activity	2	1	0.032222300463713	0.678840265355564
+MF	chloride channel activity	74	4	0.0324254303166472	0.681860477515781
+MF	phosphatidylinositol 3-kinase regulator activity	18	2	0.0339166439843462	0.694028833315555
+MF	cadherin binding involved in cell-cell adhesion	18	2	0.0339166439843462	0.694028833315555
+MF	ligand-gated anion channel activity	18	2	0.0339166439843462	0.694028833315555
+MF	carboxypeptidase activity	44	3	0.0344889588854213	0.698225453353835
+MF	metal ion binding	4172	82	0.034552671100559	0.698895162970173
+MF	lipid binding	792	20	0.0353084621064728	0.705022565569039
+MF	ion binding	5918	112	0.0360973838572641	0.716712764069202
+MF	DNA-binding transcription repressor activity, RNA polymerase II-specific	320	10	0.0372266317106603	0.732841095004681
+MF	NAD-retinol dehydrogenase activity	19	2	0.0375072598331687	0.733303890620032
+MF	pyrophosphatase activity	699	18	0.0378184375029169	0.738122749247219
+MF	sodium channel activity	46	3	0.03861295730891	0.745972255681702
+MF	cytokine activity	235	8	0.0388584207115385	0.748873002813311
+MF	hydrolase activity, acting on acid anhydrides	702	18	0.0391572531992004	0.753298388695578
+MF	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	702	18	0.0391572531992004	0.753298388695578
+MF	DNA-binding transcription repressor activity	324	10	0.0399466011319474	0.764615479384657
+MF	protein-containing complex binding	1267	29	0.040410311161954	0.770260367143812
+MF	peptidase activator activity involved in apoptotic process	20	2	0.0412360573253742	0.775632220886841
+MF	beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase activity	3	1	0.047942952437215	0.776893751993962
+MF	(S)-2-hydroxy-acid oxidase activity	3	1	0.047942952437215	0.776893751993962
+MF	glucose-6-phosphatase activity	3	1	0.047942952437215	0.776893751993962
+MF	alpha-1,4-glucosidase activity	3	1	0.047942952437215	0.776893751993962
+MF	stearoyl-CoA 9-desaturase activity	3	1	0.047942952437215	0.776893751993962
+MF	melanocyte-stimulating hormone receptor activity	3	1	0.047942952437215	0.776893751993962
+MF	Rho GDP-dissociation inhibitor activity	3	1	0.047942952437215	0.776893751993962
+MF	interleukin-8 receptor binding	3	1	0.047942952437215	0.776893751993962
+MF	integrin binding	156	6	0.0423885474265646	0.776893751993962
+MF	voltage-gated ion channel activity	200	7	0.0454966758384555	0.776893751993962
+MF	potassium channel activity	120	5	0.0463120247507566	0.776893751993962
+MF	amine transmembrane transporter activity	3	1	0.047942952437215	0.776893751993962
+MF	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase activity	3	1	0.047942952437215	0.776893751993962
+MF	arachidonic acid monooxygenase activity	21	2	0.045097625054646	0.776893751993962
+MF	P-type proton-exporting transporter activity	3	1	0.047942952437215	0.776893751993962
+MF	P-type potassium:proton transporter activity	3	1	0.047942952437215	0.776893751993962
+MF	alpha-ketoglutarate transmembrane transporter activity	3	1	0.047942952437215	0.776893751993962
+MF	cyclin-dependent protein serine/threonine kinase regulator activity	49	3	0.0452460779717998	0.776893751993962
+MF	voltage-gated channel activity	200	7	0.0454966758384555	0.776893751993962
+MF	troponin C binding	3	1	0.047942952437215	0.776893751993962
+MF	maltose alpha-glucosidase activity	3	1	0.047942952437215	0.776893751993962
+MF	ionotropic glutamate receptor binding	21	2	0.045097625054646	0.776893751993962
+MF	flavonol 3-sulfotransferase activity	3	1	0.047942952437215	0.776893751993962
+MF	disaccharide binding	3	1	0.047942952437215	0.776893751993962
+MF	sugar-terminal-phosphatase activity	3	1	0.047942952437215	0.776893751993962
+MF	flap-structured DNA binding	3	1	0.047942952437215	0.776893751993962
+MF	type II activin receptor binding	3	1	0.047942952437215	0.776893751993962
+MF	ligand-gated ion channel activity involved in regulation of presynaptic membrane potential	3	1	0.047942952437215	0.776893751993962
+MF	dATP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	dCTP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	dUTP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	dTTP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	GTP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	8-oxo-dGTP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	dGTP phosphohydrolase activity	3	1	0.047942952437215	0.776893751993962
+MF	8-hydroxy-2'-deoxyguanosine DNA binding	3	1	0.047942952437215	0.776893751993962
+MF	peptide-serine-N-acetyltransferase activity	3	1	0.047942952437215	0.776893751993962
+MF	calcium-dependent protein binding	84	4	0.0480361311782248	0.777299552455587
+MF	growth factor activity	162	6	0.0493142104198457	0.786270457679385
+MF	N-acyltransferase activity	85	4	0.0497896315286076	0.792742660821151
+MF	organic hydroxy compound transmembrane transporter activity	51	3	0.0499608036335814	0.794359369828427

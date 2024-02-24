@@ -1,0 +1,40 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+MF	site-specific DNA-methyltransferase (adenine-specific) activity	2	1	0.00115399664846649	0.537338521049215
+MF	snRNA methyltransferase activity	2	1	0.00115399664846649	0.537338521049215
+MF	U2 snRNA 2'-O-methyladenosine m6 methyltransferase activity	1	1	0.000577152986766749	0.537338521049215
+MF	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	127	2	0.00237499582367874	0.552937803194431
+MF	oxidoreductase activity, acting on CH-OH group of donors	139	2	0.00283573529789407	0.557381966372252
+MF	NF-kappaB-inducing kinase activity	6	1	0.00345828110428281	0.593264223122681
+MF	DNA-methyltransferase activity	6	1	0.00345828110428281	0.593264223122681
+MF	androsterone dehydrogenase activity	8	1	0.00460857135744297	0.611332349368714
+MF	androstan-3-alpha,17-beta-diol dehydrogenase activity	9	1	0.00518325402481035	0.632412426898785
+MF	transcription cis-regulatory region binding	1490	4	0.00863196849419715	0.751706080777107
+MF	transcription regulatory region nucleic acid binding	1492	4	0.00867256317450629	0.752369587032454
+MF	sequence-specific double-stranded DNA binding	1546	4	0.00981756563464626	0.779520613147763
+MF	D-threo-aldose 1-dehydrogenase activity	18	1	0.0103415516921921	0.781300805990247
+MF	NAD-retinol dehydrogenase activity	19	1	0.0109131601857893	0.800625925398609
+MF	double-stranded DNA binding	1640	4	0.0120434370374055	0.828485904172884
+MF	sequence-specific DNA binding	1648	4	0.0122469690159711	0.832595852910085
+MF	MAP kinase kinase kinase activity	25	1	0.0143363782565477	0.886446629543066
+MF	metallocarboxypeptidase activity	29	1	0.0166124081893346	0.933568239526746
+MF	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	29	1	0.0166124081893346	0.933568239526746
+MF	aldo-keto reductase (NADP) activity	30	1	0.0171806526290469	0.944853238948087
+MF	tumor necrosis factor receptor binding	31	1	0.0177485921536769	0.953773523110062
+MF	steroid dehydrogenase activity	33	1	0.0188835570617584	0.97256712849002
+MF	cyclin binding	34	1	0.0194505827470762	0.980853957467322
+MF	RNA polymerase II transcription regulatory region sequence-specific DNA binding	1396	3	0.0429840412377254	1
+MF	RNA polymerase II cis-regulatory region sequence-specific DNA binding	1183	3	0.0281339898891501	1
+MF	DNA-binding transcription factor activity, RNA polymerase II-specific	1347	3	0.0392678533130477	1
+MF	cis-regulatory region sequence-specific DNA binding	1204	3	0.0294471176893117	1
+MF	DNA-binding transcription activator activity	458	2	0.0278616152241963	1
+MF	DNA-binding transcription activator activity, RNA polymerase II-specific	454	2	0.0274124997711163	1
+MF	DNA binding	2439	4	0.0448531365803642	1
+MF	DNA-binding transcription factor activity	1394	3	0.0428288756536924	1
+MF	catalytic activity	5397	7	0.0207433463192383	1
+MF	carboxypeptidase activity	44	1	0.0251041273288316	1
+MF	binding	16139	13	0.0267551866728337	1
+MF	RNA methyltransferase activity	64	1	0.0363205240491028	1
+MF	peptidase activity	586	2	0.0437578169339228	1
+MF	metalloexopeptidase activity	71	1	0.040217869003626	1
+MF	tumor necrosis factor receptor superfamily binding	49	1	0.0279195349662015	1
+MF	identical protein binding	1955	4	0.0218531199073451	1

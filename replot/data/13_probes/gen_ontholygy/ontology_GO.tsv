@@ -1,0 +1,828 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+BP	mitochondrial genome maintenance	31	1	0.0177485921536769	0.953773523110062
+BP	establishment of mitotic spindle orientation	30	1	0.0171806526290469	0.944853238948087
+BP	meiotic spindle organization	15	1	0.00862488520641502	0.751706080777107
+BP	nuclear division	445	2	0.0264131453847618	1
+BP	embryonic axis specification	43	1	0.0245401379810056	1
+CC	outer kinetochore	12	1	0.00690545402047105	0.697145305004723
+BP	mitochondrial RNA metabolic process	49	1	0.0279195349662015	1
+MF	transcription cis-regulatory region binding	1490	4	0.00863196849419715	0.751706080777107
+MF	RNA polymerase II transcription regulatory region sequence-specific DNA binding	1396	3	0.0429840412377254	1
+MF	RNA polymerase II cis-regulatory region sequence-specific DNA binding	1183	3	0.0281339898891501	1
+MF	DNA-binding transcription factor activity, RNA polymerase II-specific	1347	3	0.0392678533130477	1
+MF	cis-regulatory region sequence-specific DNA binding	1204	3	0.0294471176893117	1
+MF	transcription regulatory region nucleic acid binding	1492	4	0.00867256317450629	0.752369587032454
+MF	DNA-binding transcription activator activity	458	2	0.0278616152241963	1
+MF	DNA-binding transcription activator activity, RNA polymerase II-specific	454	2	0.0274124997711163	1
+BP	RNA methylation	82	1	0.0463127086610599	1
+BP	retinoid metabolic process	84	1	0.0474169925942302	1
+BP	fever generation	11	1	0.00633169520387711	0.675065223232057
+BP	ameboidal-type cell migration	479	3	0.00236828018700343	0.552937803194431
+BP	endoderm formation	55	1	0.0312880578882001	1
+BP	mesoderm formation	72	1	0.0407734362670827	1
+BP	cell fate specification	96	2	0.0013674753455525	0.548239154010757
+BP	cell fate determination	43	1	0.0245401379810056	1
+BP	mesodermal cell fate commitment	17	1	0.00976963646572837	0.779384704902302
+BP	endodermal cell fate commitment	15	1	0.00862488520641502	0.751706080777107
+BP	endodermal cell fate specification	8	1	0.00460857135744297	0.611332349368714
+BP	somitogenesis	65	1	0.036878185879521	1
+BP	organ induction	24	1	0.0137666069734887	0.872496957519776
+BP	microglial cell activation	47	1	0.0267942791316361	1
+BP	negative regulation of cytokine production	362	2	0.0179526333737101	0.961519443790072
+BP	positive regulation of cytokine production	471	2	0.0293420988524647	1
+BP	endothelial cell development	64	1	0.0363205240491028	1
+BP	liver development	134	2	0.00263902521263963	0.557381966372252
+CC	phagocytic cup	28	1	0.0160438586834359	0.924385554851703
+BP	endothelial cell proliferation	194	2	0.0054358223769591	0.65787145271492
+BP	regulation of endothelial cell proliferation	178	2	0.00459819244736944	0.611332349368714
+BP	negative regulation of endothelial cell proliferation	76	1	0.0429927204991049	1
+BP	heart looping	64	1	0.0363205240491028	1
+BP	morphogenesis of an epithelium	510	2	0.0339707982188921	1
+BP	regulation of L-glutamate import across plasma membrane	7	1	0.00403358043480717	0.605461652635266
+BP	negative regulation of L-glutamate import across plasma membrane	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of oxidative phosphorylation	23	1	0.0131965298676934	0.857812038351259
+BP	somatic diversification of immune receptors	78	1	0.0441005737948914	1
+BP	somatic recombination of immunoglobulin genes involved in immune response	51	1	0.0290435825722495	1
+BP	somatic diversification of immunoglobulins involved in immune response	51	1	0.0290435825722495	1
+BP	adaptive immune response	438	2	0.0256466318919348	1
+BP	immune effector process	594	2	0.0448441197452864	1
+BP	leukocyte activation involved in inflammatory response	50	1	0.0284817097229134	1
+BP	alpha-beta T cell activation involved in immune response	68	1	0.0385493739485011	1
+BP	T cell differentiation involved in immune response	76	1	0.0429927204991049	1
+BP	alpha-beta T cell differentiation involved in immune response	68	1	0.0385493739485011	1
+BP	CD4-positive, alpha-beta T cell differentiation involved in immune response	67	1	0.0379926106806023	1
+BP	T-helper cell lineage commitment	17	1	0.00976963646572837	0.779384704902302
+BP	T-helper 1 cell lineage commitment	4	1	0.00230675660874091	0.548239154010757
+BP	B cell activation involved in immune response	85	1	0.0479686892021686	1
+BP	T cell lineage commitment	28	1	0.0160438586834359	0.924385554851703
+BP	alpha-beta T cell lineage commitment	22	1	0.0126261467876442	0.832595852910085
+BP	cytokine production involved in immune response	99	2	0.00145330434612206	0.548239154010757
+BP	T cell cytokine production	38	1	0.0217156438820836	1
+BP	immunoglobulin production	122	2	0.00219456869130191	0.548239154010757
+BP	immunoglobulin production involved in immunoglobulin-mediated immune response	70	1	0.0396620029615974	1
+BP	inflammatory response to antigenic stimulus	74	1	0.0418836750511969	1
+BP	chronic inflammatory response to antigenic stimulus	3	1	0.00173053113813548	0.548239154010757
+BP	production of molecular mediator of immune response	215	2	0.00663371104619448	0.697145305004723
+BP	leukocyte mediated immunity	378	2	0.0194743532053251	0.980853957467322
+BP	lymphocyte mediated immunity	286	2	0.0114807827040983	0.816291237497382
+BP	humoral immune response mediated by circulating immunoglobulin	49	1	0.0279195349662015	1
+BP	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	292	2	0.0119448205855386	0.828485904172884
+BP	leukocyte differentiation	551	2	0.0391287412765829	1
+BP	leukocyte migration involved in inflammatory response	19	1	0.0109131601857893	0.800625925398609
+BP	cytokine production involved in inflammatory response	75	1	0.0424383468681456	1
+BP	chronic inflammatory response	17	1	0.00976963646572837	0.779384704902302
+BP	somatic diversification of immune receptors via germline recombination within a single locus	69	1	0.0391058379926836	1
+BP	regulation of immunoglobulin production	73	2	0.000794094681686925	0.537338521049215
+BP	positive regulation of immunoglobulin production	50	1	0.0284817097229134	1
+BP	regulation of acute inflammatory response	47	1	0.0267942791316361	1
+BP	positive regulation of acute inflammatory response	27	1	0.0154750039601769	0.907654730990734
+BP	regulation of chronic inflammatory response	10	1	0.00575762858946105	0.65787145271492
+BP	positive regulation of chronic inflammatory response	4	1	0.00230675660874091	0.548239154010757
+BP	negative regulation of immune system process	424	2	0.0241421862742993	1
+BP	regulation of leukocyte activation	550	2	0.0389994901188283	1
+BP	positive regulation of leukocyte activation	342	2	0.0161267426977714	0.926820557663359
+BP	regulation of immune effector process	349	2	0.0167560611167149	0.937025221664134
+BP	negative regulation of immune effector process	112	2	0.00185428244561763	0.548239154010757
+BP	positive regulation of immune effector process	244	2	0.00846751863824028	0.751706080777107
+BP	regulation of production of molecular mediator of immune response	165	2	0.00396625561744544	0.605461652635266
+BP	negative regulation of production of molecular mediator of immune response	38	2	0.000214888802569136	0.537338521049215
+BP	regulation of leukocyte mediated immunity	233	2	0.00774775283423596	0.743787639702524
+BP	negative regulation of leukocyte mediated immunity	67	1	0.0379926106806023	1
+BP	positive regulation of leukocyte mediated immunity	136	2	0.00271689999543612	0.557381966372252
+BP	regulation of lymphocyte mediated immunity	173	2	0.0043499413842247	0.611332349368714
+BP	negative regulation of lymphocyte mediated immunity	55	1	0.0312880578882001	1
+BP	positive regulation of lymphocyte mediated immunity	115	2	0.00195347693681818	0.548239154010757
+BP	regulation of T cell mediated immunity	87	1	0.0490711924376096	1
+BP	negative regulation of T cell mediated immunity	27	1	0.0154750039601769	0.907654730990734
+BP	positive regulation of T cell mediated immunity	58	1	0.0329682516747216	1
+BP	regulation of B cell mediated immunity	61	2	0.000555157287454535	0.537338521049215
+BP	positive regulation of B cell mediated immunity	40	2	0.000238268504951244	0.537338521049215
+BP	regulation of cytokine production involved in immune response	97	2	0.001395804232577	0.548239154010757
+BP	negative regulation of cytokine production involved in immune response	27	2	0.000107681479975023	0.537338521049215
+BP	positive regulation of cytokine production involved in immune response	67	1	0.0379926106806023	1
+BP	regulation of T cell cytokine production	38	1	0.0217156438820836	1
+BP	negative regulation of T cell cytokine production	11	1	0.00633169520387711	0.675065223232057
+BP	positive regulation of T cell cytokine production	26	1	0.0149058438683183	0.89262922230853
+BP	positive regulation of myeloid leukocyte differentiation	55	1	0.0312880578882001	1
+BP	regulation of adaptive immune response	185	2	0.00495658461280552	0.632412426898785
+BP	negative regulation of adaptive immune response	58	1	0.0329682516747216	1
+BP	positive regulation of adaptive immune response	113	2	0.00188707105707359	0.548239154010757
+BP	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	171	2	0.0042524566004265	0.611332349368714
+BP	negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	54	1	0.0307273911723551	1
+BP	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	108	2	0.00172589680996812	0.548239154010757
+BP	regulation of T-helper 1 type immune response	29	1	0.0166124081893346	0.933568239526746
+BP	positive regulation of T-helper 1 type immune response	18	1	0.0103415516921921	0.781300805990247
+BP	regulation of type 2 immune response	32	1	0.0183162269142584	0.967368132582684
+BP	negative regulation of type 2 immune response	14	1	0.00805204886950051	0.743787639702524
+BP	regulation of inflammatory response to antigenic stimulus	45	1	0.0256678138698383	1
+BP	positive regulation of inflammatory response to antigenic stimulus	12	1	0.00690545402047105	0.697145305004723
+BP	regulation of chronic inflammatory response to antigenic stimulus	3	1	0.00173053113813548	0.548239154010757
+BP	positive regulation of chronic inflammatory response to antigenic stimulus	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of immunoglobulin mediated immune response	61	2	0.000555157287454535	0.537338521049215
+BP	positive regulation of immunoglobulin mediated immune response	40	2	0.000238268504951244	0.537338521049215
+BP	regulation of humoral immune response	45	1	0.0256678138698383	1
+BP	positive regulation of humoral immune response	24	1	0.0137666069734887	0.872496957519776
+BP	regulation of humoral immune response mediated by circulating immunoglobulin	18	1	0.0103415516921921	0.781300805990247
+BP	positive regulation of humoral immune response mediated by circulating immunoglobulin	7	1	0.00403358043480717	0.605461652635266
+BP	synoviocyte proliferation	4	1	0.00230675660874091	0.548239154010757
+BP	skeletal muscle contraction	41	1	0.0234112502642418	1
+BP	negative regulation of systemic arterial blood pressure	21	1	0.0120554575817583	0.828485904172884
+BP	heart field specification	18	1	0.0103415516921921	0.781300805990247
+BP	heart induction	10	1	0.00575762858946105	0.65787145271492
+BP	Notch signaling pathway involved in heart induction	4	1	0.00230675660874091	0.548239154010757
+BP	secondary heart field specification	11	1	0.00633169520387711	0.675065223232057
+BP	embryonic heart tube morphogenesis	70	1	0.0396620029615974	1
+BP	regulation of animal organ formation	29	1	0.0166124081893346	0.933568239526746
+BP	endothelium development	133	2	0.00260049328440673	0.557381966372252
+BP	cardiac conduction system development	37	1	0.0211498345378861	1
+BP	sinoatrial node development	11	1	0.00633169520387711	0.675065223232057
+BP	cardiac chamber formation	14	1	0.00805204886950051	0.743787639702524
+BP	cardiac ventricle morphogenesis	72	1	0.0407734362670827	1
+BP	cardiac atrium morphogenesis	29	1	0.0166124081893346	0.933568239526746
+BP	cardiac atrium formation	2	1	0.00115399664846649	0.537338521049215
+BP	cardiac ventricle formation	10	1	0.00575762858946105	0.65787145271492
+BP	atrial cardiac muscle tissue development	20	1	0.0114844620983809	0.816291237497382
+BP	cardiac atrium development	37	1	0.0211498345378861	1
+BP	sinus venosus development	1	1	0.000577152986766749	0.537338521049215
+BP	sinus venosus morphogenesis	1	1	0.000577152986766749	0.537338521049215
+BP	growth involved in heart morphogenesis	5	1	0.00288267321318048	0.557381966372252
+BP	cardioblast anterior-lateral migration	1	1	0.000577152986766749	0.537338521049215
+BP	cardioblast migration	1	1	0.000577152986766749	0.537338521049215
+BP	Wnt signaling pathway involved in heart development	12	1	0.00690545402047105	0.697145305004723
+BP	regulation of Wnt signaling pathway involved in heart development	9	1	0.00518325402481035	0.632412426898785
+BP	negative regulation of Wnt signaling pathway involved in heart development	7	1	0.00403358043480717	0.605461652635266
+BP	cell migration to the midline involved in heart development	1	1	0.000577152986766749	0.537338521049215
+MF	DNA binding	2439	4	0.0448531365803642	1
+MF	double-stranded DNA binding	1640	4	0.0120434370374055	0.828485904172884
+MF	DNA-binding transcription factor activity	1394	3	0.0428288756536924	1
+MF	catalytic activity	5397	7	0.0207433463192383	1
+MF	aldo-keto reductase (NADP) activity	30	1	0.0171806526290469	0.944853238948087
+MF	carboxypeptidase activity	44	1	0.0251041273288316	1
+MF	metallocarboxypeptidase activity	29	1	0.0166124081893346	0.933568239526746
+MF	NF-kappaB-inducing kinase activity	6	1	0.00345828110428281	0.593264223122681
+MF	MAP kinase kinase kinase activity	25	1	0.0143363782565477	0.886446629543066
+MF	NAD-retinol dehydrogenase activity	19	1	0.0109131601857893	0.800625925398609
+MF	tumor necrosis factor receptor binding	31	1	0.0177485921536769	0.953773523110062
+MF	binding	16139	13	0.0267551866728337	1
+BP	cellular aldehyde metabolic process	66	1	0.0374355480404704	1
+BP	generation of precursor metabolites and energy	477	2	0.0300360619530084	1
+BP	DNA metabolic process	978	3	0.0170461136074452	0.944853238948087
+BP	mitochondrial DNA replication	14	1	0.00805204886950051	0.743787639702524
+BP	DNA alkylation	74	1	0.0418836750511969	1
+BP	DNA methylation	74	1	0.0418836750511969	1
+BP	transcription, DNA-templated	3447	5	0.0380074014717168	1
+BP	regulation of transcription, DNA-templated	3330	5	0.0332632302609287	1
+BP	regulation of transcription by RNA polymerase II	2507	4	0.0489098953417295	1
+BP	mitochondrial transcription	17	1	0.00976963646572837	0.779384704902302
+BP	regulation of translational initiation	81	1	0.0457601210408821	1
+BP	regulation of translational initiation by iron	2	1	0.00115399664846649	0.537338521049215
+BP	proteolysis	1759	4	0.0153084745862724	0.907654730990734
+BP	membrane protein ectodomain proteolysis	44	1	0.0251041273288316	1
+BP	fat-soluble vitamin metabolic process	43	1	0.0245401379810056	1
+BP	nitric oxide biosynthetic process	75	1	0.0424383468681456	1
+BP	activation of cysteine-type endopeptidase activity involved in apoptotic process	77	1	0.0435467960920496	1
+BP	movement of cell or subcellular component	2165	4	0.0305922492795643	1
+BP	acute-phase response	48	1	0.0273570581523779	1
+BP	response to osmotic stress	79	1	0.0446540537554715	1
+BP	spindle assembly involved in female meiosis	5	1	0.00288267321318048	0.557381966372252
+BP	spindle assembly involved in female meiosis I	4	1	0.00230675660874091	0.548239154010757
+BP	mitotic metaphase plate congression	51	1	0.0290435825722495	1
+BP	regulation of mitotic nuclear division	111	2	0.00182177043123748	0.548239154010757
+BP	metaphase/anaphase transition of mitotic cell cycle	62	1	0.0352043007849135	1
+BP	mitotic spindle assembly checkpoint signaling	38	1	0.0217156438820836	1
+BP	female meiotic nuclear division	33	1	0.0188835570617584	0.97256712849002
+BP	female meiosis I	13	1	0.00747890519158778	0.729225217313106
+BP	leukocyte cell-cell adhesion	378	2	0.0194743532053251	0.980853957467322
+BP	I-kappaB kinase/NF-kappaB signaling	288	2	0.0116345442831813	0.824390566351134
+BP	I-kappaB phosphorylation	21	1	0.0120554575817583	0.828485904172884
+BP	receptor signaling pathway via JAK-STAT	172	2	0.004301069031751	0.611332349368714
+BP	tyrosine phosphorylation of STAT protein	87	1	0.0490711924376096	1
+BP	regulation of mitotic cell cycle	478	2	0.0301523720790704	1
+BP	salivary gland development	36	1	0.0205837213344127	1
+BP	salivary gland morphogenesis	34	1	0.0194505827470762	0.980853957467322
+BP	endoderm development	78	1	0.0441005737948914	1
+BP	mesodermal cell fate specification	12	1	0.00690545402047105	0.697145305004723
+BP	body fluid secretion	87	1	0.0490711924376096	1
+BP	lactation	42	1	0.0239758456762132	1
+BP	mesodermal cell migration	4	1	0.00230675660874091	0.548239154010757
+BP	metabolic process	11880	11	0.0239943331432302	1
+MF	RNA methyltransferase activity	64	1	0.0363205240491028	1
+BP	steroid metabolic process	322	2	0.0143873757225193	0.887195579689192
+MF	peptidase activity	586	2	0.0437578169339228	1
+MF	metalloexopeptidase activity	71	1	0.040217869003626	1
+BP	G2/MI transition of meiotic cell cycle	6	1	0.00345828110428281	0.593264223122681
+BP	attachment of spindle microtubules to kinetochore	37	1	0.0211498345378861	1
+BP	extrinsic apoptotic signaling pathway via death domain receptors	85	1	0.0479686892021686	1
+MF	site-specific DNA-methyltransferase (adenine-specific) activity	2	1	0.00115399664846649	0.537338521049215
+MF	DNA-methyltransferase activity	6	1	0.00345828110428281	0.593264223122681
+BP	vitamin biosynthetic process	20	1	0.0114844620983809	0.816291237497382
+BP	toxin metabolic process	17	1	0.00976963646572837	0.779384704902302
+BP	toxin catabolic process	2	1	0.00115399664846649	0.537338521049215
+BP	response to biotic stimulus	1409	3	0.043999824723337	1
+BP	response to mechanical stimulus	200	2	0.00576675537092321	0.65787145271492
+BP	response to virus	391	3	0.00132555593397268	0.548239154010757
+BP	response to toxic substance	246	2	0.00860152577426762	0.751706080777107
+BP	response to salt stress	27	1	0.0154750039601769	0.907654730990734
+BP	embryonic pattern specification	74	1	0.0418836750511969	1
+BP	anterior/posterior axis specification	57	1	0.032408487990088	1
+BP	positive regulation of signal transduction	1510	4	0.00904369424553906	0.774347623289895
+BP	negative regulation of cell fate specification	5	1	0.00288267321318048	0.557381966372252
+BP	specification of animal organ identity	37	1	0.0211498345378861	1
+BP	regulation of cell fate commitment	29	2	0.000124472518257931	0.537338521049215
+BP	negative regulation of cell fate commitment	11	2	1.69624452998553e-05	0.387015151961499
+BP	negative regulation of heart rate	12	1	0.00690545402047105	0.697145305004723
+BP	vascular endothelial growth factor production	63	1	0.0357625624004955	1
+BP	regulation of endothelial cell migration	230	2	0.00755655549289709	0.733661149472085
+BP	epithelial cell migration	357	2	0.0174881544631424	0.953773523110062
+BP	regulation of epithelial cell migration	290	2	0.0117892242455853	0.828485904172884
+BP	positive regulation of cell communication	1701	4	0.0136528986392555	0.872496957519776
+BP	regulation of alkaline phosphatase activity	9	1	0.00518325402481035	0.632412426898785
+BP	negative regulation of alkaline phosphatase activity	3	1	0.00173053113813548	0.548239154010757
+BP	regulation of hormone levels	494	2	0.0320383481332329	1
+BP	regulation of glucose transmembrane transport	78	1	0.0441005737948914	1
+BP	negative regulation of glucose transmembrane transport	22	1	0.0126261467876442	0.832595852910085
+BP	regulation of lipid storage	55	1	0.0312880578882001	1
+BP	negative regulation of lipid storage	22	1	0.0126261467876442	0.832595852910085
+BP	positive regulation of steroid biosynthetic process	23	1	0.0131965298676934	0.857812038351259
+BP	regulation of phosphatase activity	84	1	0.0474169925942302	1
+BP	negative regulation of phosphatase activity	37	1	0.0211498345378861	1
+BP	regulation of amino acid import across plasma membrane	14	1	0.00805204886950051	0.743787639702524
+BP	regulation of mitotic sister chromatid separation	65	1	0.036878185879521	1
+BP	astrocyte development	43	1	0.0245401379810056	1
+BP	glial cell proliferation	44	1	0.0251041273288316	1
+BP	positive regulation of gliogenesis	64	1	0.0363205240491028	1
+BP	positive regulation of phosphatidylinositol 3-kinase signaling	79	1	0.0446540537554715	1
+BP	response to activity	65	1	0.036878185879521	1
+BP	acidic amino acid transport	63	1	0.0357625624004955	1
+BP	L-amino acid transport	69	1	0.0391058379926836	1
+BP	L-glutamate transmembrane transport	29	1	0.0166124081893346	0.933568239526746
+BP	immunoglobulin mediated immune response	140	2	0.00287588545091975	0.557381966372252
+BP	snRNA metabolic process	59	1	0.0335277146474293	1
+BP	diterpenoid metabolic process	87	1	0.0490711924376096	1
+MF	steroid dehydrogenase activity	33	1	0.0188835570617584	0.97256712849002
+BP	somatic cell DNA recombination	69	1	0.0391058379926836	1
+BP	somatic diversification of immunoglobulins	67	1	0.0379926106806023	1
+BP	somatic recombination of immunoglobulin gene segments	59	1	0.0335277146474293	1
+BP	cell migration	1547	4	0.00983967113370247	0.779520613147763
+MF	oxidoreductase activity, acting on CH-OH group of donors	139	2	0.00283573529789407	0.557381966372252
+MF	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	127	2	0.00237499582367874	0.552937803194431
+BP	cytokine-mediated signaling pathway	479	2	0.030268867223272	1
+BP	taurine metabolic process	7	1	0.00403358043480717	0.605461652635266
+BP	alkanesulfonate metabolic process	7	1	0.00403358043480717	0.605461652635266
+BP	B cell mediated immunity	143	2	0.00299794716904151	0.570009688407093
+BP	secondary metabolic process	59	1	0.0335277146474293	1
+BP	lipid storage	86	1	0.0485200891008595	1
+BP	regulation of cell-cell adhesion	453	2	0.0273006961468881	1
+BP	signal transduction involved in regulation of gene expression	22	1	0.0126261467876442	0.832595852910085
+BP	positive regulation of signaling	1705	4	0.0137631117113583	0.872496957519776
+BP	regulation of mitotic metaphase/anaphase transition	60	1	0.0340868770573368	1
+MF	cyclin binding	34	1	0.0194505827470762	0.980853957467322
+BP	positive regulation of cell migration	556	2	0.0397775347600296	1
+BP	regulation of vitamin metabolic process	12	1	0.00690545402047105	0.697145305004723
+BP	sequestering of triglyceride	18	1	0.0103415516921921	0.781300805990247
+BP	regulation of epithelial cell differentiation	157	2	0.00359932710364771	0.605461652635266
+BP	positive regulation of epithelial cell differentiation	65	1	0.036878185879521	1
+BP	cortical cytoskeleton organization	61	1	0.0346457390535012	1
+BP	cortical actin cytoskeleton organization	40	1	0.022846351594809	1
+BP	animal organ regeneration	64	1	0.0363205240491028	1
+BP	developmental induction	34	1	0.0194505827470762	0.980853957467322
+CC	Ndc80 complex	4	1	0.00230675660874091	0.548239154010757
+BP	spindle checkpoint signaling	39	1	0.022281149517562	1
+CC	NMS complex	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of fever generation	9	1	0.00518325402481035	0.632412426898785
+BP	positive regulation of fever generation	7	1	0.00403358043480717	0.605461652635266
+BP	regulation of myelination	48	1	0.0273570581523779	1
+BP	negative regulation of myelination	11	1	0.00633169520387711	0.675065223232057
+BP	negative regulation of nervous system process	19	1	0.0109131601857893	0.800625925398609
+BP	heat generation	16	1	0.00919741435446886	0.774347623289895
+BP	regulation of heat generation	12	1	0.00690545402047105	0.697145305004723
+BP	positive regulation of heat generation	9	1	0.00518325402481035	0.632412426898785
+BP	lipopolysaccharide-mediated signaling pathway	62	1	0.0352043007849135	1
+BP	mitochondrial DNA metabolic process	23	1	0.0131965298676934	0.857812038351259
+BP	negative regulation of phosphoprotein phosphatase activity	26	1	0.0149058438683183	0.89262922230853
+BP	somite rostral/caudal axis specification	11	1	0.00633169520387711	0.675065223232057
+BP	fractalkine production	2	1	0.00115399664846649	0.537338521049215
+BP	interleukin-18 production	13	1	0.00747890519158778	0.729225217313106
+BP	interleukin-2 production	63	1	0.0357625624004955	1
+BP	regulation of fractalkine production	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of interleukin-18 production	13	1	0.00747890519158778	0.729225217313106
+BP	regulation of interleukin-2 production	63	1	0.0357625624004955	1
+BP	negative regulation of interleukin-2 production	28	1	0.0160438586834359	0.924385554851703
+BP	negative regulation of interleukin-6 production	68	1	0.0385493739485011	1
+BP	positive regulation of chemokine production	70	1	0.0396620029615974	1
+BP	positive regulation of fractalkine production	2	1	0.00115399664846649	0.537338521049215
+BP	positive regulation of interferon-gamma production	77	1	0.0435467960920496	1
+BP	positive regulation of interleukin-1 beta production	62	1	0.0352043007849135	1
+BP	positive regulation of interleukin-1 production	72	1	0.0407734362670827	1
+BP	positive regulation of interleukin-18 production	7	1	0.00403358043480717	0.605461652635266
+BP	positive regulation of interleukin-8 production	62	1	0.0352043007849135	1
+BP	regulation of monooxygenase activity	56	1	0.0318484234443344	1
+BP	positive regulation of monooxygenase activity	31	1	0.0177485921536769	0.953773523110062
+BP	RNA biosynthetic process	3467	5	0.0388602894763764	1
+BP	DNA methylation on adenine	2	1	0.00115399664846649	0.537338521049215
+BP	bile acid secretion	12	1	0.00690545402047105	0.697145305004723
+MF	tumor necrosis factor receptor superfamily binding	49	1	0.0279195349662015	1
+BP	regulation of organic acid transport	70	1	0.0396620029615974	1
+BP	negative regulation of organic acid transport	22	1	0.0126261467876442	0.832595852910085
+BP	regulation of sister chromatid segregation	72	1	0.0407734362670827	1
+BP	negative regulation of sister chromatid segregation	43	1	0.0245401379810056	1
+BP	regulation of mitotic sister chromatid segregation	46	1	0.0262311977541033	1
+BP	negative regulation of mitotic sister chromatid segregation	43	1	0.0245401379810056	1
+BP	calcineurin-NFAT signaling cascade	44	1	0.0251041273288316	1
+BP	membrane protein proteolysis	58	1	0.0329682516747216	1
+BP	positive regulation of kinase activity	474	2	0.029688243874409	1
+MF	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	29	1	0.0166124081893346	0.933568239526746
+BP	heterotypic cell-cell adhesion	61	1	0.0346457390535012	1
+BP	regulation of heterotypic cell-cell adhesion	25	1	0.0143363782565477	0.886446629543066
+BP	positive regulation of heterotypic cell-cell adhesion	15	1	0.00862488520641502	0.751706080777107
+BP	toll-like receptor 3 signaling pathway	18	1	0.0103415516921921	0.781300805990247
+BP	amyloid-beta formation	56	1	0.0318484234443344	1
+BP	protein localization to cell surface	69	1	0.0391058379926836	1
+BP	protein localization to kinetochore	19	1	0.0109131601857893	0.800625925398609
+BP	ncRNA metabolic process	551	2	0.0391287412765829	1
+BP	embryonic heart tube development	84	1	0.0474169925942302	1
+BP	response to nicotine	47	1	0.0267942791316361	1
+BP	production of miRNAs involved in gene silencing by miRNA	52	1	0.0296051536638791	1
+BP	exocrine system development	48	1	0.0273570581523779	1
+BP	negative regulation of dephosphorylation	48	1	0.0273570581523779	1
+BP	negative regulation of protein dephosphorylation	34	1	0.0194505827470762	0.980853957467322
+BP	regulation of Notch signaling pathway involved in heart induction	4	1	0.00230675660874091	0.548239154010757
+BP	positive regulation of Notch signaling pathway involved in heart induction	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of myosin-light-chain-phosphatase activity	7	1	0.00403358043480717	0.605461652635266
+BP	negative regulation of myosin-light-chain-phosphatase activity	5	1	0.00288267321318048	0.557381966372252
+BP	CD4-positive, alpha-beta T cell cytokine production	19	1	0.0109131601857893	0.800625925398609
+BP	T-helper 1 cell cytokine production	8	1	0.00460857135744297	0.611332349368714
+BP	T-helper 2 cell cytokine production	13	1	0.00747890519158778	0.729225217313106
+BP	vascular associated smooth muscle cell differentiation	38	1	0.0217156438820836	1
+BP	endodermal cell differentiation	46	1	0.0262311977541033	1
+BP	granulocyte activation	46	1	0.0262311977541033	1
+BP	neuron death in response to oxidative stress	33	1	0.0188835570617584	0.97256712849002
+BP	reelin-mediated signaling pathway	8	1	0.00460857135744297	0.611332349368714
+BP	signal transduction in absence of ligand	66	1	0.0374355480404704	1
+BP	NIK/NF-kappaB signaling	141	2	0.00291630433255756	0.559146215559943
+BP	establishment of mitotic spindle localization	35	1	0.0200173041210405	0.997193910099696
+BP	locomotion	1914	4	0.0203591181148714	1
+BP	regulation of multicellular organism growth	64	1	0.0363205240491028	1
+BP	positive regulation of locomotion	594	2	0.0448441197452864	1
+BP	snRNA modification	7	1	0.00403358043480717	0.605461652635266
+BP	T-helper 1 type immune response	45	1	0.0256678138698383	1
+BP	type 2 immune response	37	1	0.0211498345378861	1
+BP	T-helper cell differentiation	65	1	0.036878185879521	1
+BP	neutrophil activation	40	1	0.022846351594809	1
+BP	vasodilation	48	1	0.0273570581523779	1
+BP	vitamin D metabolic process	20	1	0.0114844620983809	0.816291237497382
+BP	fat-soluble vitamin biosynthetic process	13	1	0.00747890519158778	0.729225217313106
+BP	vitamin D biosynthetic process	10	1	0.00575762858946105	0.65787145271492
+BP	regulation of tyrosine phosphorylation of STAT protein	83	1	0.046864999129674	1
+BP	positive regulation of tyrosine phosphorylation of STAT protein	67	1	0.0379926106806023	1
+BP	retinol metabolic process	51	1	0.0290435825722495	1
+BP	regulation of hair cycle	28	1	0.0160438586834359	0.924385554851703
+BP	regulation of cell fate specification	13	1	0.00747890519158778	0.729225217313106
+BP	regulation of mesodermal cell fate specification	5	1	0.00288267321318048	0.557381966372252
+BP	negative regulation of mesodermal cell fate specification	3	1	0.00173053113813548	0.548239154010757
+BP	regulation of endodermal cell fate specification	2	1	0.00115399664846649	0.537338521049215
+BP	negative regulation of endodermal cell fate specification	1	1	0.000577152986766749	0.537338521049215
+MF	identical protein binding	1955	4	0.0218531199073451	1
+BP	amyloid precursor protein catabolic process	68	1	0.0385493739485011	1
+CC	neuronal cell body	481	2	0.0305024116909098	1
+BP	amino acid import	53	1	0.0301664231474035	1
+BP	regulation of I-kappaB kinase/NF-kappaB signaling	254	2	0.00914714532954924	0.774347623289895
+BP	positive regulation of I-kappaB kinase/NF-kappaB signaling	188	2	0.00511403263935108	0.632412426898785
+BP	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	76	1	0.0429927204991049	1
+BP	response to external biotic stimulus	1370	3	0.0409899954998775	1
+BP	negative regulation of protein-containing complex disassembly	82	1	0.0463127086610599	1
+BP	positive regulation of protein-containing complex disassembly	35	1	0.0200173041210405	0.997193910099696
+BP	apical junction assembly	77	1	0.0435467960920496	1
+BP	CD4-positive, alpha-beta T cell differentiation	82	1	0.0463127086610599	1
+BP	positive T cell selection	36	1	0.0205837213344127	1
+BP	CD4-positive or CD8-positive, alpha-beta T cell lineage commitment	22	1	0.0126261467876442	0.832595852910085
+BP	regulation of CD4-positive, alpha-beta T cell differentiation	50	1	0.0284817097229134	1
+BP	negative regulation of CD4-positive, alpha-beta T cell differentiation	21	1	0.0120554575817583	0.828485904172884
+BP	CD4-positive, alpha-beta T cell lineage commitment	20	1	0.0114844620983809	0.816291237497382
+BP	mycotoxin metabolic process	7	1	0.00403358043480717	0.605461652635266
+BP	mycotoxin catabolic process	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of cellular respiration	49	1	0.0279195349662015	1
+BP	regulation of JUN kinase activity	60	1	0.0340868770573368	1
+BP	positive regulation of JUN kinase activity	43	1	0.0245401379810056	1
+BP	positive regulation of neuron apoptotic process	52	1	0.0296051536638791	1
+BP	blood vessel endothelial cell migration	175	2	0.00444846476445611	0.611332349368714
+BP	regulation of blood vessel endothelial cell migration	150	2	0.00329212121456279	0.593264223122681
+BP	positive regulation of blood vessel endothelial cell migration	75	1	0.0424383468681456	1
+BP	negative regulation of blood vessel endothelial cell migration	78	1	0.0441005737948914	1
+BP	endothelial cell migration	278	2	0.0108749604359163	0.800625925398609
+MF	sequence-specific DNA binding	1648	4	0.0122469690159711	0.832595852910085
+BP	regulation of phosphoprotein phosphatase activity	59	1	0.0335277146474293	1
+BP	cellular metabolic process	10549	10	0.0330707236092611	1
+BP	primary metabolic process	10376	10	0.0292148710818155	1
+CC	cell body	545	3	0.00341309309674671	0.593264223122681
+BP	meiotic cell cycle phase transition	12	1	0.00690545402047105	0.697145305004723
+BP	metaphase/anaphase transition of cell cycle	65	1	0.036878185879521	1
+BP	T cell selection	49	1	0.0279195349662015	1
+BP	T-helper 1 cell differentiation	21	1	0.0120554575817583	0.828485904172884
+BP	regulation of viral genome replication	87	1	0.0490711924376096	1
+BP	negative regulation of viral genome replication	57	1	0.032408487990088	1
+BP	cellular extravasation	72	1	0.0407734362670827	1
+BP	cell fate commitment	266	2	0.0099941213012085	0.781300805990247
+BP	isotype switching	51	1	0.0290435825722495	1
+BP	regulation of isotype switching	37	1	0.0211498345378861	1
+BP	regulation of nitric oxide biosynthetic process	61	1	0.0346457390535012	1
+BP	positive regulation of nitric oxide biosynthetic process	41	1	0.0234112502642418	1
+BP	myoblast differentiation	81	1	0.0457601210408821	1
+BP	endothelial cell differentiation	117	2	0.00202098580363942	0.548239154010757
+BP	negative regulation of T cell differentiation	46	1	0.0262311977541033	1
+BP	negative regulation of cell differentiation	675	3	0.00620891957596224	0.675065223232057
+BP	negative regulation of fat cell differentiation	59	1	0.0335277146474293	1
+BP	regulation of endothelial cell differentiation	47	1	0.0267942791316361	1
+BP	negative regulation of lymphocyte differentiation	55	1	0.0312880578882001	1
+BP	regulation of T-helper cell differentiation	38	1	0.0217156438820836	1
+BP	negative regulation of T-helper cell differentiation	17	1	0.00976963646572837	0.779384704902302
+BP	regulation of myoblast differentiation	54	1	0.0307273911723551	1
+BP	negative regulation of myoblast differentiation	25	1	0.0143363782565477	0.886446629543066
+BP	negative regulation of osteoblast differentiation	51	1	0.0290435825722495	1
+BP	regulation of osteoclast differentiation	64	1	0.0363205240491028	1
+BP	positive regulation of osteoclast differentiation	24	1	0.0137666069734887	0.872496957519776
+BP	positive regulation of Notch signaling pathway	46	1	0.0262311977541033	1
+BP	positive regulation of action potential	8	1	0.00460857135744297	0.611332349368714
+BP	negative regulation of blood pressure	47	1	0.0267942791316361	1
+BP	negative regulation of cell cycle	385	2	0.0201568842988775	1
+BP	positive regulation of cell cycle	327	2	0.0148139999489084	0.89262922230853
+BP	negative regulation of heart contraction	26	1	0.0149058438683183	0.89262922230853
+BP	positive regulation of isotype switching	27	1	0.0154750039601769	0.907654730990734
+BP	negative regulation of mitotic nuclear division	48	1	0.0273570581523779	1
+BP	positive regulation of mitotic nuclear division	44	1	0.0251041273288316	1
+BP	negative regulation of mitotic metaphase/anaphase transition	40	1	0.022846351594809	1
+BP	positive regulation of protein kinase activity	394	2	0.0210492507846745	1
+BP	negative regulation of transcription, DNA-templated	1253	3	0.0326397728727935	1
+BP	positive regulation of DNA recombination	69	1	0.0391058379926836	1
+BP	negative regulation of mitotic cell cycle	234	2	0.00781197296247624	0.743787639702524
+BP	positive regulation of steroid metabolic process	33	1	0.0188835570617584	0.97256712849002
+BP	positive regulation of transcription by RNA polymerase II	1194	3	0.0288176914765023	1
+BP	positive regulation of translational initiation	30	1	0.0171806526290469	0.944853238948087
+BP	positive regulation of translational initiation by iron	1	1	0.000577152986766749	0.537338521049215
+BP	positive regulation of vitamin metabolic process	4	1	0.00230675660874091	0.548239154010757
+BP	nitric oxide metabolic process	81	1	0.0457601210408821	1
+BP	aflatoxin metabolic process	7	1	0.00403358043480717	0.605461652635266
+BP	aflatoxin catabolic process	2	1	0.00115399664846649	0.537338521049215
+BP	glucose import	79	1	0.0446540537554715	1
+BP	regulation of glucose import	60	1	0.0340868770573368	1
+BP	negative regulation of glucose import	17	1	0.00976963646572837	0.779384704902302
+BP	positive regulation of receptor signaling pathway via JAK-STAT	45	1	0.0256678138698383	1
+BP	negative regulation of alpha-beta T cell activation	41	1	0.0234112502642418	1
+BP	regulation of alpha-beta T cell differentiation	67	1	0.0379926106806023	1
+BP	negative regulation of alpha-beta T cell differentiation	25	1	0.0143363782565477	0.886446629543066
+BP	acid secretion	47	1	0.0267942791316361	1
+BP	positive regulation of lipid biosynthetic process	85	1	0.0479686892021686	1
+MF	androsterone dehydrogenase activity	8	1	0.00460857135744297	0.611332349368714
+MF	androstan-3-alpha,17-beta-diol dehydrogenase activity	9	1	0.00518325402481035	0.632412426898785
+MF	D-threo-aldose 1-dehydrogenase activity	18	1	0.0103415516921921	0.781300805990247
+BP	inositol phosphate-mediated signaling	56	1	0.0318484234443344	1
+BP	astrocyte activation	24	1	0.0137666069734887	0.872496957519776
+BP	organelle fission	491	2	0.0316811608716075	1
+BP	isotype switching to IgG isotypes	15	1	0.00862488520641502	0.751706080777107
+BP	regulation of isotype switching to IgG isotypes	14	1	0.00805204886950051	0.743787639702524
+BP	positive regulation of isotype switching to IgG isotypes	10	1	0.00575762858946105	0.65787145271492
+BP	mesoderm morphogenesis	74	1	0.0418836750511969	1
+BP	mesodermal cell differentiation	33	1	0.0188835570617584	0.97256712849002
+BP	lateral mesoderm development	14	1	0.00805204886950051	0.743787639702524
+BP	positive regulation of biological process	6118	7	0.0399885661979593	1
+BP	positive regulation of cellular process	5583	7	0.0248497609958906	1
+BP	embryonic digestive tract development	33	1	0.0188835570617584	0.97256712849002
+BP	embryonic organ development	449	2	0.026855389291577	1
+BP	positive regulation of response to stimulus	2099	5	0.00496957628809824	0.632412426898785
+BP	animal organ formation	65	1	0.036878185879521	1
+BP	astrocyte differentiation	79	1	0.0446540537554715	1
+BP	tissue morphogenesis	620	2	0.0484450910085892	1
+BP	gland development	429	3	0.00172941626439585	0.548239154010757
+BP	cell motility	1739	4	0.0147235573548897	0.89262922230853
+BP	chromosome localization	83	1	0.046864999129674	1
+BP	amyloid-beta metabolic process	66	1	0.0374355480404704	1
+BP	epithelial cell proliferation	443	2	0.0261931765134259	1
+BP	regulation of epithelial cell proliferation	382	2	0.0198631298103561	0.996037735721065
+BP	positive regulation of epithelial cell proliferation	211	2	0.00639702135800628	0.678857857229169
+BP	positive regulation of phagocytosis	70	1	0.0396620029615974	1
+BP	positive regulation of immune response	513	2	0.0343382347798238	1
+BP	regulation of developmental process	2436	4	0.0446789518713179	1
+BP	regulation of steroid biosynthetic process	72	1	0.0407734362670827	1
+BP	regulation of calcium-mediated signaling	75	1	0.0424383468681456	1
+BP	positive regulation of calcium-mediated signaling	34	1	0.0194505827470762	0.980853957467322
+BP	regulation of cell activation	602	2	0.0459407056628994	1
+BP	positive regulation of cell activation	357	2	0.0174881544631424	0.953773523110062
+BP	positive regulation of B cell activation	79	1	0.0446540537554715	1
+BP	multicellular organismal movement	54	1	0.0307273911723551	1
+BP	musculoskeletal movement	54	1	0.0307273911723551	1
+BP	response to stimulus	8581	9	0.0261265507845513	1
+BP	leukocyte migration	380	2	0.0196683270043699	0.988441737735032
+BP	leukocyte tethering or rolling	33	1	0.0188835570617584	0.97256712849002
+BP	detection of mechanical stimulus involved in sensory perception of pain	14	1	0.00805204886950051	0.743787639702524
+BP	detection of mechanical stimulus involved in sensory perception	33	1	0.0188835570617584	0.97256712849002
+BP	detection of mechanical stimulus	51	1	0.0290435825722495	1
+BP	regulation of lipid catabolic process	61	1	0.0346457390535012	1
+BP	negative regulation of lipid catabolic process	26	1	0.0149058438683183	0.89262922230853
+BP	regulation of nitric-oxide synthase activity	41	1	0.0234112502642418	1
+BP	positive regulation of nitric-oxide synthase activity	21	1	0.0120554575817583	0.828485904172884
+BP	regulation of membrane protein ectodomain proteolysis	24	1	0.0137666069734887	0.872496957519776
+BP	positive regulation of membrane protein ectodomain proteolysis	16	1	0.00919741435446886	0.774347623289895
+BP	regulation of DNA metabolic process	471	3	0.0022575127266467	0.548239154010757
+BP	positive regulation of DNA metabolic process	262	2	0.00970801164276867	0.779384704902302
+BP	negative regulation of developmental process	929	3	0.0148554165448513	0.89262922230853
+BP	positive regulation of developmental process	1302	3	0.0360124172329099	1
+BP	smooth muscle cell differentiation	73	1	0.0413287049002123	1
+BP	positive regulation of muscle cell differentiation	77	1	0.0435467960920496	1
+BP	positive regulation of striated muscle cell differentiation	54	1	0.0307273911723551	1
+BP	positive regulation of multicellular organismal process	1453	3	0.0475302640737861	1
+BP	negative regulation of multicellular organismal process	1118	3	0.0242791395272983	1
+BP	regulation of RNA metabolic process	3624	5	0.0459903269327379	1
+BP	negative regulation of RNA metabolic process	1366	3	0.0406876685997627	1
+BP	positive regulation of cellular component movement	591	2	0.044435545608046	1
+BP	establishment of spindle localization	50	1	0.0284817097229134	1
+BP	establishment of spindle orientation	36	1	0.0205837213344127	1
+BP	centrosome duplication	74	1	0.0418836750511969	1
+BP	establishment of chromosome localization	81	1	0.0457601210408821	1
+BP	mitotic sister chromatid separation	68	1	0.0385493739485011	1
+BP	metaphase plate congression	65	1	0.036878185879521	1
+BP	attachment of mitotic spindle microtubules to kinetochore	15	1	0.00862488520641502	0.751706080777107
+BP	positive regulation of transferase activity	559	2	0.0401688335515304	1
+BP	positive regulation of oxidoreductase activity	58	1	0.0329682516747216	1
+BP	kinetochore organization	22	1	0.0126261467876442	0.832595852910085
+BP	spindle localization	55	1	0.0312880578882001	1
+BP	localization of cell	1739	4	0.0147235573548897	0.89262922230853
+BP	response to other organism	1367	3	0.0407631389470883	1
+BP	regulation of nuclear division	139	2	0.00283573529789407	0.557381966372252
+BP	negative regulation of nuclear division	55	1	0.0312880578882001	1
+BP	positive regulation of nuclear division	59	1	0.0335277146474293	1
+BP	regulation of hair follicle development	19	1	0.0109131601857893	0.800625925398609
+BP	positive regulation of hair follicle development	12	1	0.00690545402047105	0.697145305004723
+BP	L-glutamate import	16	1	0.00919741435446886	0.774347623289895
+BP	negative regulation of amine transport	27	1	0.0154750039601769	0.907654730990734
+BP	regulation of amino acid transport	40	1	0.022846351594809	1
+BP	negative regulation of amino acid transport	15	1	0.00862488520641502	0.751706080777107
+BP	regulation of synaptic transmission, glutamatergic	70	1	0.0396620029615974	1
+BP	negative regulation of chromosome segregation	45	1	0.0256678138698383	1
+BP	convergent extension	15	1	0.00862488520641502	0.751706080777107
+BP	convergent extension involved in organogenesis	5	1	0.00288267321318048	0.557381966372252
+BP	angiogenesis involved in wound healing	31	1	0.0177485921536769	0.953773523110062
+BP	regulation of post-transcriptional gene silencing	43	1	0.0245401379810056	1
+BP	negative regulation of post-transcriptional gene silencing	18	1	0.0103415516921921	0.781300805990247
+BP	regulation of glial cell proliferation	30	1	0.0171806526290469	0.944853238948087
+BP	positive regulation of glial cell proliferation	17	1	0.00976963646572837	0.779384704902302
+BP	growth hormone receptor signaling pathway	25	1	0.0143363782565477	0.886446629543066
+BP	growth hormone receptor signaling pathway via JAK-STAT	10	1	0.00575762858946105	0.65787145271492
+BP	response to growth hormone	38	1	0.0217156438820836	1
+BP	lung morphogenesis	50	1	0.0284817097229134	1
+BP	epithelial tube branching involved in lung morphogenesis	29	1	0.0166124081893346	0.933568239526746
+BP	branching involved in salivary gland morphogenesis	22	1	0.0126261467876442	0.832595852910085
+BP	regulation of vitamin D biosynthetic process	7	1	0.00403358043480717	0.605461652635266
+BP	positive regulation of vitamin D biosynthetic process	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of calcidiol 1-monooxygenase activity	7	1	0.00403358043480717	0.605461652635266
+BP	positive regulation of calcidiol 1-monooxygenase activity	3	1	0.00173053113813548	0.548239154010757
+BP	epithelial tube morphogenesis	328	2	0.0148999856055984	0.89262922230853
+BP	epithelial cell proliferation involved in salivary gland morphogenesis	5	1	0.00288267321318048	0.557381966372252
+BP	regulation of morphogenesis of a branching structure	51	1	0.0290435825722495	1
+BP	regulation of branching involved in salivary gland morphogenesis	8	1	0.00460857135744297	0.611332349368714
+BP	cell fate commitment involved in formation of primary germ layer	32	1	0.0183162269142584	0.967368132582684
+BP	cardiac cell fate commitment	15	1	0.00862488520641502	0.751706080777107
+BP	cardiac cell fate determination	3	1	0.00173053113813548	0.548239154010757
+BP	heart formation	32	1	0.0183162269142584	0.967368132582684
+BP	cardiac pacemaker cell differentiation	10	1	0.00575762858946105	0.65787145271492
+BP	sinoatrial node cell differentiation	6	1	0.00345828110428281	0.593264223122681
+BP	cardiac vascular smooth muscle cell differentiation	10	1	0.00575762858946105	0.65787145271492
+BP	regulation of miRNA-mediated gene silencing	41	1	0.0234112502642418	1
+BP	negative regulation of miRNA-mediated gene silencing	17	1	0.00976963646572837	0.779384704902302
+BP	regulation of gene silencing by RNA	45	1	0.0256678138698383	1
+BP	negative regulation of gene silencing by RNA	18	1	0.0103415516921921	0.781300805990247
+BP	cell migration involved in heart development	21	1	0.0120554575817583	0.828485904172884
+BP	cell migration involved in heart formation	2	1	0.00115399664846649	0.537338521049215
+BP	cardioblast migration to the midline involved in heart field formation	1	1	0.000577152986766749	0.537338521049215
+BP	coronary vasculature development	48	1	0.0273570581523779	1
+BP	hepaticobiliary system development	137	2	0.00275624229146455	0.557381966372252
+BP	establishment of endothelial barrier	48	1	0.0273570581523779	1
+BP	vascular wound healing	22	1	0.0126261467876442	0.832595852910085
+BP	regulation of vascular wound healing	14	1	0.00805204886950051	0.743787639702524
+BP	negative regulation of vascular wound healing	8	1	0.00460857135744297	0.611332349368714
+BP	negative regulation of wound healing	76	1	0.0429927204991049	1
+BP	regulation of branching involved in lung morphogenesis	6	1	0.00345828110428281	0.593264223122681
+BP	negative regulation of branching involved in lung morphogenesis	1	1	0.000577152986766749	0.537338521049215
+BP	somite development	83	1	0.046864999129674	1
+BP	cell surface receptor signaling pathway involved in heart development	31	1	0.0177485921536769	0.953773523110062
+BP	determination of heart left/right asymmetry	68	1	0.0385493739485011	1
+BP	miRNA transcription	60	1	0.0340868770573368	1
+BP	leukocyte adhesion to vascular endothelial cell	56	1	0.0318484234443344	1
+BP	leukocyte adhesion to arterial endothelial cell	6	1	0.00345828110428281	0.593264223122681
+BP	glial cell activation	54	1	0.0307273911723551	1
+BP	regulation of mitochondrial gene expression	28	1	0.0160438586834359	0.924385554851703
+BP	detection of stimulus involved in sensory perception of pain	25	1	0.0143363782565477	0.886446629543066
+BP	necrotic cell death	64	1	0.0363205240491028	1
+BP	necroptotic process	42	1	0.0239758456762132	1
+BP	hepatocyte differentiation	15	1	0.00862488520641502	0.751706080777107
+BP	regulation of hepatocyte differentiation	2	1	0.00115399664846649	0.537338521049215
+BP	positive regulation of hepatocyte differentiation	1	1	0.000577152986766749	0.537338521049215
+BP	bicellular tight junction assembly	69	1	0.0391058379926836	1
+BP	regulation of calcineurin-NFAT signaling cascade	35	1	0.0200173041210405	0.997193910099696
+BP	positive regulation of calcineurin-NFAT signaling cascade	16	1	0.00919741435446886	0.774347623289895
+BP	primary sncRNA processing	56	1	0.0318484234443344	1
+BP	regulation of production of small RNA involved in gene silencing by RNA	23	1	0.0131965298676934	0.857812038351259
+BP	spindle assembly checkpoint signaling	38	1	0.0217156438820836	1
+BP	mitotic spindle checkpoint signaling	38	1	0.0217156438820836	1
+BP	cellular response to acid chemical	85	1	0.0479686892021686	1
+BP	cellular response to amino acid stimulus	75	1	0.0424383468681456	1
+BP	cellular response to mechanical stimulus	69	1	0.0391058379926836	1
+BP	cellular response to retinoic acid	67	1	0.0379926106806023	1
+BP	cellular response to nicotine	7	1	0.00403358043480717	0.605461652635266
+BP	cellular response to growth hormone stimulus	26	1	0.0149058438683183	0.89262922230853
+BP	protein localization to chromosome, centromeric region	25	1	0.0143363782565477	0.886446629543066
+BP	mononuclear cell migration	196	2	0.00554512031566412	0.65787145271492
+BP	positive regulation of mononuclear cell migration	64	1	0.0363205240491028	1
+BP	organic substance metabolic process	11394	11	0.0166852568859338	0.935358282824238
+BP	podosome assembly	19	1	0.0109131601857893	0.800625925398609
+BP	regulation of podosome assembly	14	1	0.00805204886950051	0.743787639702524
+BP	positive regulation of podosome assembly	11	1	0.00633169520387711	0.675065223232057
+BP	T-helper 17 type immune response	40	1	0.022846351594809	1
+BP	T-helper 17 cell differentiation	28	1	0.0160438586834359	0.924385554851703
+BP	T-helper 17 cell lineage commitment	13	1	0.00747890519158778	0.729225217313106
+BP	blood microparticle formation	2	1	0.00115399664846649	0.537338521049215
+BP	chemokine (C-X-C motif) ligand 2 production	18	1	0.0103415516921921	0.781300805990247
+BP	hepatocyte proliferation	22	1	0.0126261467876442	0.832595852910085
+BP	epithelial cell proliferation involved in liver morphogenesis	22	1	0.0126261467876442	0.832595852910085
+BP	liver morphogenesis	23	1	0.0131965298676934	0.857812038351259
+BP	endothelial cell apoptotic process	64	1	0.0363205240491028	1
+BP	interleukin-33 production	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of nitric oxide metabolic process	64	1	0.0363205240491028	1
+BP	amino acid import across plasma membrane	45	1	0.0256678138698383	1
+BP	positive regulation of cell cycle process	246	2	0.00860152577426762	0.751706080777107
+BP	regulation of heart induction by regulation of canonical Wnt signaling pathway	4	1	0.00230675660874091	0.548239154010757
+BP	positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway	4	1	0.00230675660874091	0.548239154010757
+BP	tissue migration	365	2	0.0182338607322337	0.967368132582684
+BP	epithelium migration	360	2	0.0177662056154355	0.953773523110062
+BP	regulation of spindle checkpoint	17	1	0.00976963646572837	0.779384704902302
+BP	positive regulation of spindle checkpoint	8	1	0.00460857135744297	0.611332349368714
+BP	regulation of mitotic cell cycle spindle assembly checkpoint	17	1	0.00976963646572837	0.779384704902302
+BP	positive regulation of mitotic cell cycle spindle assembly checkpoint	8	1	0.00460857135744297	0.611332349368714
+BP	regulation of mitochondrial DNA replication	5	1	0.00288267321318048	0.557381966372252
+BP	meiotic spindle assembly	8	1	0.00460857135744297	0.611332349368714
+BP	negative regulation of oxidative phosphorylation	9	1	0.00518325402481035	0.632412426898785
+BP	regulation of DNA-templated DNA replication	52	1	0.0296051536638791	1
+BP	regulation of heart induction	5	1	0.00288267321318048	0.557381966372252
+BP	extrinsic apoptotic signaling pathway in absence of ligand	66	1	0.0374355480404704	1
+BP	amyloid-beta clearance	39	1	0.022281149517562	1
+BP	programmed necrotic cell death	49	1	0.0279195349662015	1
+BP	liver regeneration	29	1	0.0166124081893346	0.933568239526746
+BP	necroptotic signaling pathway	8	1	0.00460857135744297	0.611332349368714
+BP	nucleic acid-templated transcription	3449	5	0.0380921341470401	1
+BP	receptor signaling pathway via STAT	182	2	0.00480144417609541	0.632412426898785
+BP	calcineurin-mediated signaling	48	1	0.0273570581523779	1
+BP	L-glutamate import across plasma membrane	16	1	0.00919741435446886	0.774347623289895
+BP	regulation of action potential	57	1	0.032408487990088	1
+BP	regulation of heart induction by canonical Wnt signaling pathway	5	1	0.00288267321318048	0.557381966372252
+BP	regulation of calcineurin-mediated signaling	36	1	0.0205837213344127	1
+BP	positive regulation of calcineurin-mediated signaling	16	1	0.00919741435446886	0.774347623289895
+MF	snRNA methyltransferase activity	2	1	0.00115399664846649	0.537338521049215
+MF	U2 snRNA 2'-O-methyladenosine m6 methyltransferase activity	1	1	0.000577152986766749	0.537338521049215
+BP	positive regulation of animal organ morphogenesis	34	1	0.0194505827470762	0.980853957467322
+BP	snRNA (adenine-N6)-methylation	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of bile acid secretion	6	1	0.00345828110428281	0.593264223122681
+BP	negative regulation of bile acid secretion	2	1	0.00115399664846649	0.537338521049215
+BP	tight junction assembly	75	1	0.0424383468681456	1
+BP	tight junction organization	81	1	0.0457601210408821	1
+BP	mitotic nuclear division	293	2	0.0120229617710686	0.828485904172884
+BP	response to Gram-negative bacterium	1	1	0.000577152986766749	0.537338521049215
+BP	non-membrane-bounded organelle assembly	375	2	0.0191849510106194	0.980853957467322
+BP	neuroinflammatory response	73	1	0.0413287049002123	1
+BP	regulation of neuroinflammatory response	41	1	0.0234112502642418	1
+BP	positive regulation of neuroinflammatory response	18	1	0.0103415516921921	0.781300805990247
+BP	regulation of interleukin-33 production	4	1	0.00230675660874091	0.548239154010757
+BP	positive regulation of interleukin-33 production	1	1	0.000577152986766749	0.537338521049215
+BP	regulation of cytokine production involved in inflammatory response	75	1	0.0424383468681456	1
+BP	positive regulation of cytokine production involved in inflammatory response	27	1	0.0154750039601769	0.907654730990734
+BP	regulation of amyloid-beta clearance	20	1	0.0114844620983809	0.816291237497382
+BP	negative regulation of amyloid-beta clearance	11	1	0.00633169520387711	0.675065223232057
+BP	regulation of post-transcriptional gene silencing by RNA	43	1	0.0245401379810056	1
+BP	negative regulation of post-transcriptional gene silencing by RNA	18	1	0.0103415516921921	0.781300805990247
+BP	negative regulation of signal transduction in absence of ligand	33	1	0.0188835570617584	0.97256712849002
+BP	positive regulation of neuron death	87	1	0.0490711924376096	1
+BP	positive regulation of NIK/NF-kappaB signaling	67	1	0.0379926106806023	1
+BP	positive regulation of heart induction	4	1	0.00230675660874091	0.548239154010757
+BP	organic cyclic compound metabolic process	6256	7	0.044777350168953	1
+BP	organic heteropentacyclic compound metabolic process	7	1	0.00403358043480717	0.605461652635266
+BP	organic heteropentacyclic compound catabolic process	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of endothelial cell development	17	1	0.00976963646572837	0.779384704902302
+BP	response to paracetamol	1	1	0.000577152986766749	0.537338521049215
+BP	organonitrogen compound metabolic process	6278	7	0.0455766627239442	1
+BP	organic hydroxy compound metabolic process	550	2	0.0389994901188283	1
+BP	regulation of synoviocyte proliferation	4	1	0.00230675660874091	0.548239154010757
+BP	positive regulation of synoviocyte proliferation	3	1	0.00173053113813548	0.548239154010757
+BP	response to peptide	490	2	0.0315624625334333	1
+BP	cellular response to peptide	360	2	0.0177662056154355	0.953773523110062
+BP	regulation of superoxide dismutase activity	8	1	0.00460857135744297	0.611332349368714
+BP	positive regulation of superoxide dismutase activity	4	1	0.00230675660874091	0.548239154010757
+BP	negative regulation of cellular respiration	11	1	0.00633169520387711	0.675065223232057
+BP	regulation of mitochondrial DNA metabolic process	9	1	0.00518325402481035	0.632412426898785
+BP	negative regulation of cell junction assembly	32	1	0.0183162269142584	0.967368132582684
+BP	regulation of cell cycle checkpoint	34	1	0.0194505827470762	0.980853957467322
+BP	positive regulation of cell cycle checkpoint	11	1	0.00633169520387711	0.675065223232057
+BP	regulation of amyloid-beta formation	48	1	0.0273570581523779	1
+BP	positive regulation of amyloid-beta formation	20	1	0.0114844620983809	0.816291237497382
+BP	regulation of metaphase/anaphase transition of cell cycle	63	1	0.0357625624004955	1
+BP	negative regulation of metaphase/anaphase transition of cell cycle	42	1	0.0239758456762132	1
+BP	regulation of leukocyte differentiation	282	2	0.0111760227331909	0.816291237497382
+BP	positive regulation of organelle assembly	80	1	0.0452072361215661	1
+BP	regulation of chromatin organization	39	1	0.022281149517562	1
+BP	L-alpha-amino acid transmembrane transport	67	1	0.0379926106806023	1
+BP	positive regulation of intracellular signal transduction	981	3	0.0171859262869677	0.944853238948087
+BP	regulation of neutrophil activation	15	1	0.00862488520641502	0.751706080777107
+BP	positive regulation of neutrophil activation	6	1	0.00345828110428281	0.593264223122681
+BP	negative regulation of RNA biosynthetic process	1257	3	0.0329083487893401	1
+BP	regulation of miRNA transcription	59	1	0.0335277146474293	1
+BP	positive regulation of miRNA transcription	45	1	0.0256678138698383	1
+BP	regulation of amyloid precursor protein catabolic process	55	1	0.0312880578882001	1
+BP	positive regulation of amyloid precursor protein catabolic process	25	1	0.0143363782565477	0.886446629543066
+BP	regulation of leukocyte cell-cell adhesion	341	2	0.016037703351363	0.924385554851703
+BP	positive regulation of protein localization to plasma membrane	60	1	0.0340868770573368	1
+BP	protein localization to condensed chromosome	19	1	0.0109131601857893	0.800625925398609
+BP	regulation of mitochondrial transcription	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of establishment of endothelial barrier	17	1	0.00976963646572837	0.779384704902302
+BP	regulation of oxidative stress-induced cell death	77	1	0.0435467960920496	1
+BP	regulation of oxidative stress-induced neuron death	29	1	0.0166124081893346	0.933568239526746
+BP	positive regulation of oxidative stress-induced cell death	20	1	0.0114844620983809	0.816291237497382
+BP	positive regulation of oxidative stress-induced neuron death	7	1	0.00403358043480717	0.605461652635266
+BP	regulation of endodermal cell differentiation	5	1	0.00288267321318048	0.557381966372252
+BP	negative regulation of endodermal cell differentiation	3	1	0.00173053113813548	0.548239154010757
+BP	negative regulation of bicellular tight junction assembly	6	1	0.00345828110428281	0.593264223122681
+BP	regulation of mitotic spindle checkpoint	17	1	0.00976963646572837	0.779384704902302
+BP	regulation of nucleic acid-templated transcription	3331	5	0.0333020245051521	1
+BP	negative regulation of nucleic acid-templated transcription	1255	3	0.0327739108901438	1
+BP	negative regulation of blood circulation	27	1	0.0154750039601769	0.907654730990734
+BP	regulation of ATP metabolic process	86	1	0.0485200891008595	1
+BP	negative regulation of ATP metabolic process	30	1	0.0171806526290469	0.944853238948087
+BP	regulation of hemopoiesis	367	2	0.0184224000112858	0.970728588123552
+BP	regulation of aerobic respiration	32	1	0.0183162269142584	0.967368132582684
+BP	regulation of I-kappaB phosphorylation	9	1	0.00518325402481035	0.632412426898785
+BP	positive regulation of I-kappaB phosphorylation	7	1	0.00403358043480717	0.605461652635266
+BP	regulation of amino acid transmembrane transport	14	1	0.00805204886950051	0.743787639702524
+BP	negative regulation of anion transport	24	1	0.0137666069734887	0.872496957519776
+BP	regulation of production of miRNAs involved in gene silencing by miRNA	22	1	0.0126261467876442	0.832595852910085
+BP	negative regulation of production of miRNAs involved in gene silencing by miRNA	11	1	0.00633169520387711	0.675065223232057
+BP	positive regulation of protein localization	443	2	0.0261931765134259	1
+BP	regulation of anion transmembrane transport	25	1	0.0143363782565477	0.886446629543066
+BP	negative regulation of anion transmembrane transport	9	1	0.00518325402481035	0.632412426898785
+BP	positive regulation of protein localization to cell periphery	67	1	0.0379926106806023	1
+BP	positive regulation of nitric oxide metabolic process	43	1	0.0245401379810056	1
+BP	response to amyloid-beta	55	1	0.0312880578882001	1
+BP	cellular response to amyloid-beta	45	1	0.0256678138698383	1
+BP	regulation of vascular associated smooth muscle cell proliferation	85	1	0.0479686892021686	1
+BP	positive regulation of vascular associated smooth muscle cell proliferation	46	1	0.0262311977541033	1
+BP	positive regulation of receptor signaling pathway via STAT	48	1	0.0273570581523779	1
+BP	regulation of leukocyte adhesion to vascular endothelial cell	39	1	0.022281149517562	1
+BP	positive regulation of leukocyte adhesion to vascular endothelial cell	24	1	0.0137666069734887	0.872496957519776
+BP	regulation of leukocyte adhesion to arterial endothelial cell	5	1	0.00288267321318048	0.557381966372252
+BP	positive regulation of leukocyte adhesion to arterial endothelial cell	3	1	0.00173053113813548	0.548239154010757
+BP	response to 3,3',5-triiodo-L-thyronine	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of morphogenesis of an epithelium	65	1	0.036878185879521	1
+BP	negative regulation of morphogenesis of an epithelium	9	1	0.00518325402481035	0.632412426898785
+BP	regulation of protein localization to kinetochore	4	1	0.00230675660874091	0.548239154010757
+BP	positive regulation of protein localization to kinetochore	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of mesodermal cell differentiation	8	1	0.00460857135744297	0.611332349368714
+BP	negative regulation of mesodermal cell differentiation	3	1	0.00173053113813548	0.548239154010757
+BP	regulation of chromosome separation	72	1	0.0407734362670827	1
+BP	negative regulation of chromosome separation	45	1	0.0256678138698383	1
+BP	negative regulation of lipid localization	47	1	0.0267942791316361	1
+BP	response to transition metal nanoparticle	2	1	0.00115399664846649	0.537338521049215
+BP	response to gold nanoparticle	2	1	0.00115399664846649	0.537338521049215
+MF	sequence-specific double-stranded DNA binding	1546	4	0.00981756563464626	0.779520613147763
+BP	vascular associated smooth muscle cell proliferation	86	1	0.0485200891008595	1
+BP	regulation of protein localization to cell surface	41	1	0.0234112502642418	1
+BP	positive regulation of protein localization to cell surface	20	1	0.0114844620983809	0.816291237497382
+BP	regulation of multicellular organismal development	1385	3	0.0421342939179807	1
+BP	regulation of animal organ morphogenesis	129	2	0.00244907518452186	0.557381966372252
+BP	negative regulation of cysteine-type endopeptidase activity	84	1	0.0474169925942302	1
+BP	positive regulation of cell motility	579	2	0.0428158184754753	1
+BP	negative regulation of signaling receptor activity	60	1	0.0340868770573368	1
+BP	regulation of T-helper 17 type immune response	26	1	0.0149058438683183	0.89262922230853
+BP	negative regulation of T-helper 17 type immune response	11	1	0.00633169520387711	0.675065223232057
+BP	regulation of T-helper 17 cell differentiation	18	1	0.0103415516921921	0.781300805990247
+BP	negative regulation of T-helper 17 cell differentiation	10	1	0.00575762858946105	0.65787145271492
+BP	regulation of T-helper 17 cell lineage commitment	6	1	0.00345828110428281	0.593264223122681
+BP	negative regulation of T-helper 17 cell lineage commitment	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of blood microparticle formation	2	1	0.00115399664846649	0.537338521049215
+BP	positive regulation of blood microparticle formation	2	1	0.00115399664846649	0.537338521049215
+BP	regulation of chemokine (C-X-C motif) ligand 2 production	18	1	0.0103415516921921	0.781300805990247
+BP	positive regulation of chemokine (C-X-C motif) ligand 2 production	9	1	0.00518325402481035	0.632412426898785
+BP	regulation of hepatocyte proliferation	15	1	0.00862488520641502	0.751706080777107
+BP	positive regulation of hepatocyte proliferation	10	1	0.00575762858946105	0.65787145271492
+BP	regulation of endothelial cell apoptotic process	58	1	0.0329682516747216	1
+BP	regulation of CD4-positive, alpha-beta T cell activation	65	1	0.036878185879521	1
+BP	negative regulation of CD4-positive, alpha-beta T cell activation	31	1	0.0177485921536769	0.953773523110062
+BP	regulation of T-helper 2 cell cytokine production	13	1	0.00747890519158778	0.729225217313106
+BP	negative regulation of T-helper 2 cell cytokine production	4	1	0.00230675660874091	0.548239154010757
+BP	regulation of T-helper 1 cell cytokine production	8	1	0.00460857135744297	0.611332349368714
+BP	positive regulation of T-helper 1 cell cytokine production	8	1	0.00460857135744297	0.611332349368714
+BP	positive regulation of DNA biosynthetic process	73	1	0.0413287049002123	1
+BP	regulation of bicellular tight junction assembly	22	1	0.0126261467876442	0.832595852910085
+BP	negative regulation of mitotic sister chromatid separation	43	1	0.0245401379810056	1
+BP	regulation of heart morphogenesis	11	1	0.00633169520387711	0.675065223232057
+BP	reactive nitrogen species metabolic process	82	1	0.0463127086610599	1
+BP	regulation of RNA biosynthetic process	3340	5	0.0336525208493072	1
+BP	positive regulation of extrinsic apoptotic signaling pathway	50	1	0.0284817097229134	1
+BP	regulation of extrinsic apoptotic signaling pathway in absence of ligand	44	1	0.0251041273288316	1
+BP	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	33	1	0.0188835570617584	0.97256712849002
+BP	regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	6	1	0.00345828110428281	0.593264223122681
+BP	positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	3	1	0.00173053113813548	0.548239154010757
